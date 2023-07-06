@@ -1,7 +1,6 @@
 # BᴀɴɢʟᴀBᴏᴏᴋ: A Large-scale Bangla Dataset for Sentiment Analysis from Book Reviews
 This repository contains the code, data, and models of the paper titled "BᴀɴɢʟᴀBᴏᴏᴋ: A Large-scale Bangla Dataset for Sentiment Analysis from Book Reviews" published in the ***Findings of the Association for Computational Linguistics: ACL 2023***.
 
-
 [![arXiv](https://img.shields.io/badge/arXiv-2305.06595-b31b1b.svg)](https://arxiv.org/abs/2305.06595)
 [![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=Google+Scholar&logoColor=white&color=222222&labelColor=4285F4)](https://tinyurl.com/gscholarbanglabook)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white&color=222222&labelColor=00CCBB)](https://www.researchgate.net/publication/370688086_BanglaBook_A_Large-scale_Bangla_Dataset_for_Sentiment_Analysis_from_Book_Reviews)
