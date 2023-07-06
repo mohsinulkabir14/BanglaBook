@@ -26,6 +26,15 @@ Column Title | Description
 `sentiment` | The conveyed sentiment and class label of the review<br>For a review sample $`i`$ with rating $`r_i`$, the sentiment label $`S_i`$ is,<br>$`S_i =\begin{cases}Negative, & \text{if $r_i \leq 2$}\\Neutral, & \text{if $r_i = 3$}\\Positive, & \text{if $r_i \geq 4$}\end{cases}`$
 `label` | The numerical representation of the sentiment label<br>For a review sample $`i`$ with sentiment label $`S_i`$, the numerical label is,<br>$`label_i =\begin{cases}0, & \text{if $S_i = Negative$}\\1, & \text{if $S_i = Neutral$}\\2, & \text{if $S_i = Positive$}\end{cases}`$
 
+## Data Construction
+### Data Collection Process
+![dataimage1](images/banglabookgithub1.png)
+### Labeling, Translation, and Validation of the Curated Samples
+![dataimage2](images/banglabookgithub2.png)
+
+## Results
+![resultsimage](images/banglabookgithub3.png)
+
 ## Citation
 If you find this work useful, please cite our paper:
 ```
