@@ -31,8 +31,10 @@ Column Title | Description
 
 ## Data Construction
 ### Data Collection Process
+For the data collection and preparation process of the BᴀɴɢʟᴀBᴏᴏᴋ dataset, we first compile a list of URLs for authors from online bookstores. From there, we procure URLs for the books. We meticulously scrape information such as book titles, author names, book categories, review texts, reviewer names, review dates, and ratings by utilizing these book URLs. 
 ![dataimage1](images/banglabookgithub1.png)
 ### Labeling, Translation, and Validation of the Curated Samples
+If a review does not have a rating, we deem it unannotated. Reviews with a rating of 1 or 2 are classified as negative, a rating of 3 is considered neutral, and a rating of 4 or 5 is classified as positive. After discarding the unannotated reviews, we curate a final dataset of 158,065 annotated reviews. Of these, 89,371 are written entirely in Bangla. The remaining 68,694 reviews were written in Romanized Bangla, English, or a mix of languages. They are translated into Bangla with Google Translator and a custom Python program using the `googletrans` library. The translations are subsequently subjected to manual review and scrutiny to confirm their accuracy.
 ![dataimage2](images/banglabookgithub2.png)
 
 ## Results
