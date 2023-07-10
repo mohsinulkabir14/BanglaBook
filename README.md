@@ -40,10 +40,20 @@ Column Title | Description
 ## Citation
 If you find this work useful, please cite our paper:
 ```
-@article{kabir2023banglabook,
-  title={BanglaBook: A Large-scale Bangla Dataset for Sentiment Analysis from Book Reviews},
-  author={Kabir, Mohsinul and Mahfuz, Obayed Bin and Raiyan, Syed Rifat and Mahmud, Hasan and Hasan, Md Kamrul},
-  journal={arXiv preprint arXiv:2305.06595},
-  year={2023}
+@inproceedings{kabir-etal-2023-banglabook,
+    title = "{B}angla{B}ook: A Large-scale {B}angla Dataset for Sentiment Analysis from Book Reviews",
+    author = "Kabir, Mohsinul  and
+      Bin Mahfuz, Obayed  and
+      Raiyan, Syed Rifat  and
+      Mahmud, Hasan  and
+      Hasan, Md Kamrul",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-acl.80",
+    pages = "1237--1247",
+    abstract = "The analysis of consumer sentiment, as expressed through reviews, can provide a wealth of insight regarding the quality of a product. While the study of sentiment analysis has been widely explored in many popular languages, relatively less attention has been given to the Bangla language, mostly due to a lack of relevant data and cross-domain adaptability. To address this limitation, we present BanglaBook, a large-scale dataset of Bangla book reviews consisting of 158,065 samples classified into three broad categories: positive, negative, and neutral. We provide a detailed statistical analysis of the dataset and employ a range of machine learning models to establish baselines including SVM, LSTM, and Bangla-BERT. Our findings demonstrate a substantial performance advantage of pre-trained models over models that rely on manually crafted features, emphasizing the necessity for additional training resources in this domain. Additionally, we conduct an in-depth error analysis by examining sentiment unigrams, which may provide insight into common classification errors in under-resourced languages like Bangla. Our codes and data are publicly available at https://github.com/mohsinulkabir14/BanglaBook.",
 }
 ```
