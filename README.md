@@ -42,7 +42,7 @@ If a review does not have a rating, we deem it unannotated. Reviews with a ratin
 
 ## Citation
 If you find this work useful, please cite our paper:
-```
+```bib
 @inproceedings{kabir-etal-2023-banglabook,
     title = "{B}angla{B}ook: A Large-scale {B}angla Dataset for Sentiment Analysis from Book Reviews",
     author = "Kabir, Mohsinul  and
