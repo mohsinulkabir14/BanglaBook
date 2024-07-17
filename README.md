@@ -5,6 +5,7 @@ This repository contains the code, data, and models of the paper titled "Bᴀɴ�
 [![anthology](https://img.shields.io/badge/ACL%20Anthology-2023.findings--acl.80-EE161F.svg)](https://aclanthology.org/2023.findings-acl.80/)
 [![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=Google+Scholar&logoColor=white&color=gray&labelColor=4285F4)](https://tinyurl.com/gscholarbanglabook)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white&color=gray&labelColor=00CCBB)](https://www.researchgate.net/publication/370688086_BanglaBook_A_Large-scale_Bangla_Dataset_for_Sentiment_Analysis_from_Book_Reviews)
+[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-yellow?style=flat&logo=HuggingFace&logoColor=black&color=gray&labelColor=yellow)](https://huggingface.co/datasets/Starscream-11813/BanglaBook)
 
 [![PDF](https://img.shields.io/badge/Paper%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=gray&labelColor=ec1c24)](https://aclanthology.org/2023.findings-acl.80.pdf)
 [![Slides](https://img.shields.io/badge/Slides%20PDF-EF3939?style=flat&logo=Microsoft+PowerPoint&logoColor=white&color=gray&labelColor=B7472A)](https://drive.google.com/file/d/1-UkYs_Rx11S7qKOfR-6rnO2VDp3W78vQ/view?usp=sharing)
